@@ -13,7 +13,7 @@ Automação de Ambientes Cisco com Python e Netmiko
 
 (Python3, Netmiko, Eve-ng, Pycharm)
 
-Criação de Script em Pyton3 e o Netmiko para automatizar tarefas em ambientes cisco (roteadores/switches).
+Criação de Script em Python3 e o Netmiko para automatizar tarefas em ambientes cisco (roteadores/switches).
 
 
 Biblioteca Netmiko:

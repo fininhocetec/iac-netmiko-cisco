@@ -17,6 +17,7 @@ Criação de Script em Python3 e o Netmiko para automatizar tarefas em ambientes
 
 
 Biblioteca Netmiko:
+https://pynet.twb-tech.com/blog/automation/netmiko.html
 
 Os objetivos desta biblioteca são os seguintes:
 
@@ -39,10 +40,11 @@ Requisitos
 Dependências
 ------------
 
-        Em desenvolviento. Aguardem...
+        $ pip3 install netmiko (linux)
+        c:\pip install netmiko (windows)
 
 
-Subindo e destruindo o Ambiente
+Automatizando tarefas em Cisco
 --------------------------------
 
         Em desenvolvimento. Aguardem...

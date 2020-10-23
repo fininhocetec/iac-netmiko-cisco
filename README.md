@@ -13,7 +13,7 @@ Automação de Ambientes Cisco com Python e Netmiko
 
 (Python3, Netmiko, Eve-ng, Pycharm)
 
-Criação de Script em Python3 e o Netmiko para automatizar tarefas em ambientes cisco (roteadores/switches).
+Criação de Scripts em Python3 e o Netmiko para automatizar tarefas em ambientes cisco (roteadores/switches).
 
 
 Biblioteca Netmiko:
@@ -22,8 +22,8 @@ https://pynet.twb-tech.com/blog/automation/netmiko.html
 Os objetivos desta biblioteca são os seguintes:
 
 - Estabelecer com sucesso uma conexão SSH com o dispositivo
-- Simplifique a execução de comandos show e a recuperação de dados de saída
-- Simplifique a execução de comandos de configuração, incluindo possivelmente ações de confirmação
+- Simplificar a execução de comandos show e a recuperação de dados de saída
+- Simplificar a execução de comandos de configuração, incluindo possivelmente ações de confirmação
 - Amplo conjunto de fornecedores e plataformas de rede
 
 
